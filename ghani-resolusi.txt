@@ -2,4 +2,5 @@ Ghani Resolusi 2023
 -Konsisten Belajar CSS
 -Konsisten Belajar JavaScript
 -Konsisten Belajar Framework
+-konsisten belajar React JS
 -melamar pekerjaan
